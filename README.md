@@ -1,1 +1,1 @@
-# AluraFlix_geohugo
+# aluraflix2025fredTB
