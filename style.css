@@ -14,14 +14,17 @@ h1 {
         font-family: cursive;
 
     }
-section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-}
+
+    section {
+        background: rgb(184, 156, 213);
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+
     header {
         font-size: 50px;
     }
+
     header {
         border-bottom: solid 2px rgb(42, 122, 228);
         margin: 20px;
